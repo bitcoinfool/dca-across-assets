@@ -1,6 +1,6 @@
 # Comparing Dollar-Cost Averaging Strategies Across Different Assets
 
-Welcome to my second GitHub repostiory! This project provides scripts for fetching financial data of various assets from Yahoo Finance, performing data cleaning and transformation, and visualizing the results using the R programming language. The visualizations include both static and animated plots to compare the performance of different investment strategies like Dollar-Cost Averaging (DCA) across four asset classes: Bitcoin, S&P 500, Gold, and Oil.
+Welcome to my second GitHub repostiory! This project provides scripts for fetching financial data of various assets from Yahoo Finance, performing data cleaning and transformation, and visualizing the results using the R programming language. The visualizations include both static and animated plots to compare the performance of Dollar-Cost Averaging (DCA) strategoes across four asset classes: Bitcoin, S&P 500, Gold, and Oil.
 
 ## Features
 
@@ -14,3 +14,7 @@ Welcome to my second GitHub repostiory! This project provides scripts for fetchi
 
 Before running the project, make sure you have installed the following R packages: `tidyverse`, `quantmod`, `scales`, `gganimate`
 
+
+## Contributing
+
+Contributions to this project are welcome! Please fork the repository and submit a pull request with your suggested changes.
