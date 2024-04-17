@@ -17,4 +17,4 @@ Before running the project, make sure you have installed the following R package
 
 ## Contributing
 
-Contributions to this project are welcome! Please fork the repository and submit a pull request with your suggested changes.
+Contributions to this project are welcome! Please fork the repository and submit a pull request with your suggested changes. Feel free to download the code and run it on your assets of choice.
